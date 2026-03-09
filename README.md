@@ -1,40 +1,50 @@
 <h1 align="center">Hi 👋, I'm Ritik Khanna</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack</h3>
 
----
-
-## 👨‍💻 About Me
-
-- 💻 Full Stack Web Developer
-- 🚀 Building modern and scalable web applications
-- ⚡ Skilled in MERN Stack & real-time applications
-- 🌱 Currently learning advanced backend & system design
+<p align="center">
+Passionate about building modern, scalable and real-time web applications.
+</p>
 
 ---
 
-## 🛠 Tech Stack
+### 👨‍💻 About Me
 
-Frontend  
-HTML • CSS • JavaScript • React
-
-Backend  
-Node.js • Express.js • Socket.IO
-
-Database  
-MongoDB • MySQL
-
-Tools  
-Git • GitHub • VS Code
+- 💻 Full Stack Web Developer  
+- ⚡ Skilled in **MERN Stack**
+- 🚀 Building real-time web applications
+- 🌱 Always learning new technologies
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Tech Stack
 
-LinkedIn  
-https://www.linkedin.com/in/ritik-khanna-6
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, GitHub, VS Code
 
-Email  
-uttamkhanna620@gmail.com
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ritikdevs&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritikdevs&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ritik-khanna-6
+- 📧 Email: uttamkhanna620@gmail.com
+
+---
+
+⭐ From **Ritikdevs**
 
 
 <!--
