@@ -1,30 +1,36 @@
 <h1 align="center">Hi 👋, I'm Ritik Khanna</h1>
 <h3 align="center">🚀 Full Stack Web Developer | MERN Stack</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Building+Real+Time+Web+Apps;Node.js+%7C+React+%7C+MongoDB+%7C+SQL" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Full Stack Web Developer  
 - 🚀 Building modern and scalable web applications  
-- ⚡ Skilled in MERN Stack & real-time applications  
-- 🌱 Always learning new technologies
+- ⚡ Skilled in **MERN Stack & Real-time Applications**
+- 🌱 Currently learning **advanced backend & system design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-Frontend  
-HTML • CSS • JavaScript • React  
+<p align="center">
 
-Backend  
-Node.js • Express.js • Socket.IO  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 
-Database  
-MongoDB • MySQL  
+</p>
 
-Tools  
-Git • GitHub • VS Code
+---
+
+## ⚡ Backend & Real-Time
+
+- Node.js  
+- Express.js  
+- Socket.IO  
 
 ---
 
@@ -40,17 +46,35 @@ Git • GitHub • VS Code
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Top Languages
 
-LinkedIn  
-https://www.linkedin.com/in/ritik-khanna-6
+<p align="center">
 
-Email  
-uttamkhanna620@gmail.com
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritikdevs&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-⭐ Building Projects • Learning Everyday • Growing as a Developer
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ritik-khanna-6">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:uttamkhanna620@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+🔥 Building Projects • Learning Everyday • Growing as a Developer
+</p>
 
 
 <!--
